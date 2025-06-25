@@ -1,0 +1,34 @@
+{
+  "questions": [
+    "Qu'est-ce qu'un médicament ?",
+    "Quelle est la composition d'un médicament ?",
+    "Qu'est-ce qu'un principe actif ?",
+    "Qu'est-ce qu'un excipient ?",
+    "Qu'appelle-t-on molécule naturelle ?",
+    "Qu'est-ce qu'un médicament synthétique ?",
+    "Qu'est-ce qu'un médicament générique ?",
+    "Qu'est-ce qu'un nanomédicament ?",
+    "Qu'est-ce qu'un vecteur ?",
+    "Quel est l'intérêt de la vectorisation ?",
+    "Quelles sont les 2 propriétés d’un nanomédicament ?",
+    "Quand sont apparus les nanomédicaments ?",
+    "Qu’est-ce qu’un médicament hybride ?",
+    "Quel est l’intérêt des médicaments hybrides ?"
+  ],
+  "reponses": [
+    "Substance avec propriétés curatives ou préventives pour l'homme ou l'animal.",
+    "Un ou plusieurs principes actifs et des excipients selon la formulation.",
+    "Molécule ayant des groupes actifs assurant l'effet thérapeutique.",
+    "Substance facilitant la prise ou conservation du médicament.",
+    "Molécule issue d’un être vivant, plante ou animal.",
+    "Médicament fabriqué en laboratoire par synthèse chimique.",
+    "Médicament sans brevet, même principe actif, moins cher.",
+    "Association d’un principe actif et d’un vecteur nanométrique.",
+    "Transporteur qui délivre le principe actif sans le dégrader.",
+    "Réduire effets secondaires, limiter la dose et protéger le principe actif.",
+    "Furtivité face au système immunitaire, sélectivité contre les cellules malades.",
+    "Il y a environ dix ans, pour traiter certains cancers.",
+    "Médicament contenant plusieurs groupes actifs appelés pharmacophores.",
+    "Ils sont plus efficaces que les médicaments simples."
+  ]
+}

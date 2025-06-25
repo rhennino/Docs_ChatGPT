@@ -1,0 +1,38 @@
+{
+  "questions": [
+    "À quelle fréquence se trouvent les ultrasons ?",
+    "Les ultrasons se propagent-ils dans le vide ?",
+    "Qu'appelle-t-on célérité ?",
+    "Coment calculer la distance entre un émetteur et un récepteur situés face à face ?",
+    "Si l'émetteur et le récepteur sont côte à côte d'une surface réfléchissante à une distance d, comment calculer d ?",
+    "Quelle est l’unité de la célérité v ?",
+    "Quelle est l’unité de la distance d ?",
+    "Quelle est l’unité de la durée Δt ?",
+    "Quel est le principe de l’échographie ?",
+    "Pourquoi la peau est-elle préalablement recouverte de gel lors d’une échographie ?",
+    "Dans une échographie, à quoi correspondent les différents niveaux de gris ?",
+    "Quel est le principe de l’échographie Doppler ?",
+    "Que mesure une sonde à effet Doppler ?",
+    "Que nous indique une fréquence reçue plus grande que la fréquence émise ?",
+    "Que nous indique une fréquence reçue plus petite que la fréquence émise ?",
+    "Sur quoi sont réfléchis les ultrasons dans le sang ?"
+  ],
+  "reponses": [
+    "Au-dessus de 20 000 Hertz.",
+    "Non, ils ont besoin d’un milieu matériel.",
+    "La vitesse des ondes.",
+    "d = v × Δt",
+    "d = v × Δt / 2",
+    "En mètre par seconde (m/s).",
+    "En mètre (m).",
+    "En seconde (s).",
+    "Déterminer par écho la localisation d’une interface (séparation entre deux milieux différents).",
+    "Pour améliorer la transmission des ultrasons entre la peau et la sonde.",
+    "Zone noire : les liquides, zone grise : les tissus, zones blanches : les os.",
+    "Mesurer le sens et la vitesse d’écoulement du sang.",
+    "Une modification de fréquence Δf entre l'onde émise et l'onde reçue.",
+    "Que l'obstacle refléchissant se rapproche de la sonde.",
+    "Que l'obstacle refléchissant s'éloigne de la sonde.",
+    "Les globules rouges, qui servent d’obstacles aux ultrasons."
+  ]
+}

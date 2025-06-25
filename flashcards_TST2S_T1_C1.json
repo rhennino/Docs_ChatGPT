@@ -1,0 +1,36 @@
+{
+  "questions": [
+    "Quelle relation lie le volume d’un gaz à sa quantité de matière ?",
+    "Qu’est-ce qu’un nombre stœchiométrique ?",
+    "Quelle relation entre n(NaN₃) et n(N₂) dans 2NaN₃ ⟶ 2Na + 3N₂ ?",
+    "Quelle est la relation entre la masse et la quantité de matière ?",
+    "Quelle relation entre le volume, la concentration et la quantité de matière ?",
+    "Quel est le principe de fonctionnement d’un airbag ?",
+    "Comment se déclenche un airbag ?",
+    "Quel est le temps de gonflage d’un airbag ?",
+    "Quel produit dangereux est formé dans un airbag ?",
+    "Quel est le principe d’un alcootest ?",
+    "Quel type de réaction a lieu dans un alcootest ?",
+    "Quelle est la sensibilité d’un alcootest ?",
+    "Quelle méthode permet de détecter des drogues sans changement de couleur ?",
+    "Quel est le principe de la spectrométrie de masse ?",
+    "La spectrométrie de masse est-elle infaillible ?"
+  ],
+  "reponses": [
+    "𝐕 = 𝑛 × 𝐕ₘ avec 𝐕ₘ le volume molaire en L/mol.",
+    "Nombre entier ou demi-entre placé devant une espèce dans une équation.",
+    "𝑛(NaN₃)/2 = 𝑛(N₂)/3 selon l’équation stœchiométrique.",
+    "𝑛 = 𝑚 ÷ 𝑀 avec 𝑀 la masse molaire en g/mol.",
+    "𝑛 = 𝐂 × 𝐕 avec 𝐕 en L et 𝐂 en mol/L.",
+    "Une réaction rapide produit un gaz qui gonfle l’airbag instantanément.",
+    "Un accéléromètre détecte le choc et déclenche la réaction chimique.",
+    "Environ 100 millisecondes, soit 0,1 seconde.",
+    "Le sodium solide (Na) est formé, très réactif et dangereux.",
+    "L’air expiré traverse des cristaux qui changent de couleur avec l’alcool.",
+    "Réaction d’oxydoréduction entre l’éthanol et le dichromate de potassium.",
+    "Il détecte de faibles quantités mais nécessite un test sanguin pour précision.",
+    "Par spectrométrie de masse, sans réaction chimique visible.",
+    "Ioniser les molécules puis les dévier avec un champ magnétique.",
+    "Non, des molécules de même masse peuvent être confondues."
+  ]
+}

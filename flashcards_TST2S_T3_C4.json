@@ -1,0 +1,38 @@
+{
+  "questions": [
+    "Quelle est l'utilité des additifs alimentaires ?",
+    "Qu'est-ce qu'un édulcorant ?",
+    "Qu'est-ce que la DJA ?",
+    "Qu'est-ce que la DJT ?",
+    "Quel code désigne les additifs alimentaires ?",
+    "Quel est le but d'une chromatographie (CCM)?",
+    "Que conclure si 2 taches sont à la même hauteur sur une CCM ?",
+    "Que conclure si une substance ne forme qu'une seule tache sur une CCM ?",
+    "Quel est le principe d'une chromatographie ?",
+    "Qu'est-ce que la spectrophotométrie ?",
+    "Comment interpréter le maximum d’un spectre d'absorbtion ?",
+    "Comment varie l’absorbance avec la concentration ?",
+    "Comment utiliser une courbe d’étalonnage ?",
+    "Quelles sont les 2 catégories d’arômes alimentaires ?",
+    "Qu’est-ce qu’un arôme de synthèse ?",
+    "Qu’est-ce qu’un arôme naturel ?"
+  ],
+  "reponses": [
+    "Pour conserver les aliments ou les rendre plus attrayants.",
+    "Substance qui remplace le sucre, avec un goût sucré mais moins de calories.",
+    "Dose journalière admissible sans risque pour la santé.",
+    "Dose journalière tolérable pour une substance non intentionnellement ajoutée.",
+    "Lettre E suivie de 3 ou 4 chiffres, exemple : E428.",
+    "Séparer et identifier les substances d’un mélange.",
+    "Elles correspondent à deux substances identiques.",
+    "La substance n'est pas un mélange, elle est pure.",
+    "Substances migrent à des vitesses différentes selon leur affinité avec l’éluant.",
+    "Mesurer l’absorbance d’une solution à différentes longueurs d’onde.",
+    "Il permet d’identifier les colorants présents dans la solution.",
+    "Elle est proportionnelle à la concentration, on obtient une droite.",
+    "On lit la concentration correspondant à l’absorbance sur la courbe.",
+    "Arômes naturels et arômes de synthèse.",
+    "Molécule copiée ou artificielle qui reproduit un goût.",
+    "Molécule extraite directement d’un produit naturel."
+  ]
+}

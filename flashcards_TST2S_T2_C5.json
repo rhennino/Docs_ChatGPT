@@ -1,0 +1,38 @@
+{
+  "questions": [
+    "Qu'appelle-t-on une particule fine ?",
+    "Pourquoi existe-t-il des valeurs limites pour ces particules fines ?",
+    "Qui est responsable des émissions de particules fines ?",
+    "Qu'est-ce que la traçabilité ?",
+    "Pourquoi le rejet d'hormones dans les milieux aquatiques est-il dangereux ?",
+    "Comment les hormones sont-elles éliminées ?",
+    "Définir le temps de demi-vie.",
+    "Quel est l'effet du dioxyde de carbone dans l'eau douce ou salée ?",
+    "Quelle est l'espèce chimique dont la concentration mesure l'acidité d'un milieu ?",
+    "Quel est l'impact d'une eau de mer acidifiée ?",
+    "Quel est l'impact du dioxyde de soufre dans l'air ?",
+    "Comment calculer la concentration en H₃O⁺ à partir du pH ?",
+    "Écrire l'équation de réaction entre CO₂ et H₂O.",
+    "Écrire la réaction entre CO₃²⁻ des coquilles et H₃O⁺.",
+    "Écrire l’équation du SO₂ avec l’eau.",
+    "La dégradation des hormones est plus rapide dans quel milieu ?"
+  ],
+  "reponses": [
+    "Une particule fine a un diamètre de quelques micromètres (μm).",
+    "Elles sont nocives : troubles respiratoires, cardiovasculaires et effets cancérigènes.",
+    "Chauffage individuel, circulation, agriculture et industrie sont responsables.",
+    "C’est retracer le parcours d'une substance du producteur au consommateur.",
+    "Elles perturbent le système endocrinien même à faible dose.",
+    "Par absorption ou biodégradation selon les conditions du milieu.",
+    "Temps nécessaire pour diviser par deux la concentration d’une hormone.",
+    "Elle acidifie l’eau en faisant diminuer le pH.",
+    "L’ion oxonium H₃O⁺ indique l’acidité du milieu.",
+    "Elle attaque les coquilles de mollusques et les coraux.",
+    "Le dioxyde de soufre cause les pluies acides.",
+    "[H₃O⁺] = 10^-pH.",
+    "CO₂ + H₂O ⇌ H₃O⁺ + HCO₃⁻",
+    "H₃O⁺ + CO₃²⁻ ⇌ HCO₃⁻ + H₂O",
+    "SO₂ + H₂O → HSO₃⁻ + H₃O⁺",
+    "En milieu naturel aérobie (présence d’oxygène)."
+  ]
+}
